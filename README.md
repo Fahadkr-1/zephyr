@@ -1,4 +1,4 @@
-******************************* How to install zephyr SDK and build project ******************************
+******************************** How to install zephyr SDK and build project ******************************
 
 Steps to install the SDK
 
