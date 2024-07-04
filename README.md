@@ -1,4 +1,4 @@
-*******************************How to install zephyr SDK and build project ******************************
+******************************* How to install zephyr SDK and build project ******************************
 
 Steps to flow to install the SDK
 
@@ -14,7 +14,7 @@ $$Extract the Zephyr SDK bundle archive:
 
 tar xvf zephyr-sdk-0.16.8_linux-x86_64.tar.xz
 
-*******************************Build process************************************************
+******************* Build process ************************************************
 
 Open your terminal and navigate to the blinky sample application directory: zephyr/samples/basic/blinky
 
