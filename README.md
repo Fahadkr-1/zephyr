@@ -1,6 +1,6 @@
 ******************************* How to install zephyr SDK and build project ******************************
 
-Steps to flow to install the SDK
+Steps to install the SDK
 
 $$Download the Zephyr sdk bundle
 
