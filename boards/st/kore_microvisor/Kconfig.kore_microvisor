@@ -1,0 +1,2 @@
+config BOARD_KORE_MICROVISOR
+    select SOC_STM32U585XX
